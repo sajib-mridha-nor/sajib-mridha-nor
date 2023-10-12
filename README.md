@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sajib-mridha-nor
 - 👀 I’m interested in ...Codding, provlem solving
 🌱 I’m currently learning ...Advance flutter devlopment
-💞️ I’m looking to collaborate on ... Flutter devlopment in a team
+
 📫 How to reach me ... linkin/sajibnor
 
 <!---
